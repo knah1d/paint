@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+out/
+
+# Compiled class files
+*.class
+
+# macOS
+.DS_Store
+__MACOSX/
